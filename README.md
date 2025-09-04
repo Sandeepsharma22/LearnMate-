@@ -1,4 +1,4 @@
-# LearnMate-
+# LearnMate
 "LearnMate – Your Personal Learning Companion connects students with mentors across academics, coding, and creative fields. 
 It offers free limited sessions and flexible premium plans for extended support, including 24×7 chat and personalized guidance. 
 The app empowers learners to solve problems, gain new skills, and grow anytime, anywhere."
